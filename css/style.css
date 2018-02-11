@@ -21,6 +21,7 @@
     nav{
         background-color: #ff7d47;
         align-content: center;
+        opacity: 0.7;
     }
     section{
         margin: 21%;
@@ -47,8 +48,9 @@
         text-decoration: none;
     }
     img{
-        box-shadow: 8px 8px 400px #ff7d47;
+        box-shadow: 1px 0.1px 10px #ff7d47;
         height: 250px;
         width: 250px;
+        border-radius: 50%;
     }
    
