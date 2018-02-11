@@ -1,0 +1,49 @@
+/*Primary color:#aed581
+    Primary Light:#e1ffb1
+    Primary Dark: #e1ffb1
+    Secondary: #e64a19
+    Secondary light: #ff7d47
+    Secondary Dark: #ac0800
+    */
+
+    body{
+        background-color:#e1ffb1;
+    }
+    h1{
+        text-align: center;
+        font-size: -webkit-xxx-large;
+        color: #ff7d47;
+    }
+    li{
+        display: inline;
+        background-color: #ff7d47;
+    }
+    nav{
+        background-color: #ff7d47;
+        align-content: center;
+    }
+    section{
+        margin: 1.75%
+    }
+    
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #ff7d47;
+    }
+    /*
+    li {
+        float: left;
+    }
+*/
+    
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    
+   
