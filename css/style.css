@@ -23,7 +23,7 @@
         align-content: center;
     }
     section{
-        margin: 1.75%
+        margin: 21%;
     }
     
     ul {
@@ -45,5 +45,10 @@
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
-    
+    }
+    img{
+        box-shadow: 8px 8px 400px #ff7d47;
+        height: 250px;
+        width: 250px;
+    }
    
